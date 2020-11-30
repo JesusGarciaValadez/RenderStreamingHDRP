@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleExecutable</key>
+    <string>RenderStreamingHDRP</string>
+    <key>CFBundleGetInfoString</key>
+    <string>Unity Player version 2020.1.15f1 (97d0ae02d19d). (c) 2020 Unity Technologies ApS. All rights reserved.</string>
+    <key>CFBundleIconFile</key>
+    <string>PlayerIcon.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.JesusGarciaValadez.RenderStreamingHDRP</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>RenderStreamingHDRP</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>MacOSX</string>
+    </array>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.games</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.12.0</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true />
+    </dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Allow your camera, allows you to share your gestures with your friends when you're enjoying gaming together.</string>
+    <key>NSMainNibFile</key>
+    <string>MainMenu</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Allow your mic, allows you to talk with your friends when you're enjoying gaming together.</string>
+    <key>NSPrincipalClass</key>
+    <string>PlayerApplication</string>
+    <key>UnityBuildNumber</key>
+    <string>97d0ae02d19d</string>
+  </dict>
+</plist>
