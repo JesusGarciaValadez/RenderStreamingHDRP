@@ -1,4 +1,4 @@
-# SampleUnityRenderStreaming
+# UnityRenderStreamingHDRP
 
 This Unity App is made using Unity Render Streaming HDRP technology.
 
